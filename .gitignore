@@ -26,7 +26,8 @@
 #####
 # never ignore any cpp files
 #
-!*.cpp
+/*
+!/**/*.cpp*
 #
 #####
  
