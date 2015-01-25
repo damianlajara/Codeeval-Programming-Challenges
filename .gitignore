@@ -22,6 +22,14 @@
 # files that we want to exclude
 #
 #########################
+
+#####
+# Ignore two subdirectories, but never ignore any cpp files
+#
+*/*/
+!*.cpp
+#
+#####
  
 #####
 # OS X temporary files that should never be committed
