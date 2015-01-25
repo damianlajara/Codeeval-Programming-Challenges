@@ -26,8 +26,8 @@
 #####
 # Ignore two subdirectories, but never ignore any cpp files
 #
-*/*
 !*.cpp
+*/*
 #
 #####
  
