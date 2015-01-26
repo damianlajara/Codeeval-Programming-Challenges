@@ -4,7 +4,7 @@
 //
 //  Created by Damian Lajara on 1/8/15.
 //  Copyright (c) 2015 Damian Lajara. All rights reserved.
-//
+// https://www.codeeval.com/open_challenges/113/
 
 /*
  MULTIPLY LISTS

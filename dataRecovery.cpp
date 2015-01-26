@@ -4,10 +4,9 @@
 //
 //  Created by Damian Lajara on 1/18/15.
 //  Copyright (c) 2015 Damian Lajara. All rights reserved.
-//
+// https://www.codeeval.com/open_challenges/140/
 
 /*
- https://www.codeeval.com/open_challenges/140/
  DATA RECOVERY
  CHALLENGE DESCRIPTION:
  
