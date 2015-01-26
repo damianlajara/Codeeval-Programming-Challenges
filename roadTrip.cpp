@@ -43,7 +43,7 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    ifstream file("input.txt");
+    ifstream file(argv[1]);
     stringstream ss;
     string line,input;
     size_t delim;
